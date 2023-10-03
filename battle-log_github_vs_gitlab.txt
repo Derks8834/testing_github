@@ -1,0 +1,7 @@
+Github takes 4 damage
+Github takes 10 damage
+Gitlab takes 2 damage
+Gitlab takes 1 damage
+Gitlab healds 2 damage
+Github takes 1000000 damage
+Github dies
