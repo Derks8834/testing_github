@@ -5,3 +5,7 @@ Gitlab takes 1 damage
 Gitlab healds 2 damage
 Github takes 999999 damage
 Github dies
+But here comes Bitbucket with the metal chair!
+He does massive damage to Gitlab
+We have never seen this before folks!
+Gitlab is left on the floor dying, call an ambulance!
